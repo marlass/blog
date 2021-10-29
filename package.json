@@ -1,39 +1,29 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
-  "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "dependencies": {
-    "gatsby": "^2.18.17",
-    "gatsby-link": "^2.2.27",
-    "gatsby-plugin-catch-links": "^2.1.21",
-    "gatsby-plugin-feed": "^2.3.25",
-    "gatsby-plugin-google-analytics": "^2.1.31",
-    "gatsby-plugin-offline": "^3.0.30",
-    "gatsby-plugin-react-helmet": "^3.1.18",
-    "gatsby-plugin-sass": "^2.1.26",
-    "gatsby-plugin-sitemap": "^2.2.24",
-    "gatsby-remark-prismjs": "^3.3.28",
-    "gatsby-source-filesystem": "^2.1.43",
-    "gatsby-transformer-remark": "^2.6.45",
-    "node-sass": "^4.13.0",
-    "prismjs": "^1.17.1",
-    "react-disqus-comments": "^1.1.1",
-    "react-dom": "^16.12.0",
-    "react-helmet": "^5.2.0"
-  },
-  "keywords": [
-    "gatsby"
-  ],
-  "license": "MIT",
-  "main": "n/a",
+  "private": true,
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
-    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc"
+  },
+  "dependencies": {
+    "classnames": "2.3.1",
+    "date-fns": "2.21.3",
+    "gray-matter": "4.0.3",
+    "next": "latest",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "remark": "13.0.0",
+    "remark-html": "13.0.1",
+    "typescript": "^4.2.4"
   },
   "devDependencies": {
-    "prettier": "^1.10.2"
+    "@types/jest": "^26.0.23",
+    "@types/node": "^15.6.0",
+    "@types/react": "^17.0.6",
+    "@types/react-dom": "^17.0.5",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.3.0",
+    "tailwindcss": "^2.1.2"
   }
 }
