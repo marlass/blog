@@ -17,7 +17,7 @@ Instrukcje instalacji są dostępne w [repozytorium projektu](https://github.com
 
 Wystarczy tylko przejść na stronę, którą chcemy przetestować, kliknąć ikonkę i przycisk "generate report" i po kilkunastu sekundach dostajemy ładny raport o stronie i ewentualnych błędach + ogólny wynik strony w 100 punktowej skali.
 
-![Wynik lighthouse dla blog.marlas.pl](blog-marlas-pl-lighthouse.png)
+![Wynik lighthouse dla blog.marlas.pl](/blog-marlas-pl-lighthouse.png)
 
 Na blogu jest jeszcze parę rzeczy do poprawy i mój ogólny wynik wyniósł 38/100 punktów, ale nie jest najgorzej. Przy każdym błedzie jest dokładna informacja o przyczynie i o zalecanych krokach do naprawy tego problemu. Naprawdę polecam każdemu te rozszerzenie, bo pozwala złapać poważne błędy, które możemy czasem poprawić w bardzo krótkim czasie. Aktualnie blog nie ma pliku manifestu oraz service workera i przez to tracę masę punktów, ale reszta wyników jest bardzo dobra.
 

@@ -12,7 +12,7 @@ This is a story that happened to me recently and I wanted to share how I approac
 Before I go to the real issue let me shortly describe the project background. More than 20 people regularly commit code to the project. To maintain quality of the code we require that each PR passes all required checks. In our case all unit tests have to pass, critical e2e tests are passing and linter doesn't catch any errors. Additionally we commit to 2 main branches. One branch for stable version maintenance and the other for next version development. Recently we worked on major release, so we have a lot of differences between those branches that will play a role in this story.
 
 The story starts with this image
-![Failing Travis job for latest commit](debugging-travis-issue/commits.JPG)
+![Failing Travis job for latest commit](/debugging-travis-issue/commits.JPG)
 
 Suddenly Travis job failed for the change that shouldn't break anything. It was only the library version bump in maintenance branch. Everything should be okay.
 
@@ -25,7 +25,7 @@ Let's see what failed in this job.
 Aha. Unit tests for storefront library failed.
 
 Let's look at the details
-![Failing unit test in storefront library](debugging-travis-issue/unit-tests.JPG)
+![Failing unit test in storefront library](/debugging-travis-issue/unit-tests.JPG)
 
 Ok. Only one unit test failing. I'll just checkout to this branch and run the tests locally.
 
@@ -136,10 +136,10 @@ What?! Green again. How is it possible?
 I'm stupid! Unit test are run with Chrome not the Node :facepalm:
 
 Weird. I don't see any differences in Chrome setup on Travis between maintenance and development branch. Time to check the Travis logs for the chrome setup.
-![Chrome install failure on Travis](debugging-travis-issue/chrome-install-failure.JPG)
+![Chrome install failure on Travis](/debugging-travis-issue/chrome-install-failure.JPG)
 
 I'm onto something. Installation of the stable chrome failed in the job. Let's see how it worked previously.
-![Chrome install success on Travis](debugging-travis-issue/chrome-install-success.JPG)
+![Chrome install success on Travis](/debugging-travis-issue/chrome-install-success.JPG)
 
 Ok. In the previous job Chrome 81 was successfully installed and replaced default Chrome 62. When the V8 change got into Chrome? Let's google.
 

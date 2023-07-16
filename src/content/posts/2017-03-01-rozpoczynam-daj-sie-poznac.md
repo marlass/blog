@@ -10,7 +10,7 @@ Rozpoczyna się miesiąc marzec i zaczynam wyzwanie "Daj się poznać 2017". Ca�
 
 <!--more-->
 
-![Daj się poznać 2017](dsp2017-1@2x.png)
+![Daj się poznać 2017](/dsp2017-1@2x.png)
 
 O konkursie dowiedziałem się od kolegi z pracy, który też podjął wyzwanie. Informacja rozniosła się po firmie i tak do udziału zgłosiło się jeszcze kilka osób. W następnym poście wrzucę linki do blogów wszystkich pracowników [Divante](https://divante.pl/), którzy również biorą udział w "Daj się poznać 2017".
 
