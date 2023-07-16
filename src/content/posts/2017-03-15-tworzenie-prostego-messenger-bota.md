@@ -3,7 +3,7 @@ layout: post
 title: Tworzenie prostego bota do Messengera
 tags: dajsiepoznac2017
 date: 2017-03-15
-path: /tworzenie-prostego-messenger-bota
+path: /tworzenie-prostego-messenger-bota/
 ---
 
 W Internecie pojawia się coraz więcej artykułów o nowym interfejsie, który ma zrewolucjonizować nasz sposób komunikacji z maszynami. Mowa tutaj o botach w komunikatorach. Kolejny rodzaj interfejsu, który ma upodobnić naszą komunikację z urządzeniami i usługami do komunikacji międzyludzkiej.

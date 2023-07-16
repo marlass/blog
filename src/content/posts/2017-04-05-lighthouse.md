@@ -3,7 +3,7 @@ layout: post
 title: Lighthouse
 tags: dajsiepoznac2017
 date: 2017-04-05
-path: /lighthouse
+path: /lighthouse/
 ---
 
 Lighthouse. Co to takiego? Co ma wspólnego latarnia z IT?

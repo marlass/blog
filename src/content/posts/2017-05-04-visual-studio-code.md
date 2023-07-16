@@ -3,7 +3,7 @@ layout: post
 title: Visual Studio Code
 tags: dajsiepoznac2017
 date: 2017-05-04
-path: /visual-studio-code
+path: /visual-studio-code/
 ---
 
 W tym poście chcę coś opowiedzieć o swoim podstawowym edytorze - Visual Studio Code. Jest to nowy edytor stworzony przez Microsoft w 2015 roku i od oficjalnego wypuszczenia edytora w marcu 2016 rozwijany jako projekt Open Source. Ja zacząłem korzystać z VS Code 1,5 roku temu, gdy jeszcze był w wersji Beta i jeszcze nie znalazłem powodu, żeby go zamienić na jakikolwiek inny.

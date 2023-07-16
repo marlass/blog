@@ -3,7 +3,7 @@ layout: post
 title: Style w projekcie
 tags: dajsiepoznac2017
 date: 2017-04-25
-path: /style-w-projekcie
+path: /style-w-projekcie/
 ---
 
 Wszystkie moje prace do tej pory skupiały się na pisaniu kodu javascript. Dzisiaj trochę odskoczni - stylowanie komponentów z użyciem modułów CSS.

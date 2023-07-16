@@ -3,7 +3,7 @@ layout: post
 title: CSSnext w projekcie
 tags: dajsiepoznac2017
 date: 2017-04-30
-path: /cssnext-w-projekcie
+path: /cssnext-w-projekcie/
 ---
 
 Przy tworzeniu projektów z użyciem React odchodzi się od praktyki tworzenia jednego głównego arkusza styli na rzecz tworzenia styli indywidualnie dla każdego komponentu. Jak już opisałem w poprzednim poście o projekcie, że korzystam w nim z modułów CSS i nie korzystam z SCSS. Dzisiaj opiszę trochę cssnext, który usprawnia pracę z stylami w modułach i daje możliwość wykorzystania przyszłych funkcjonalności języka CSS.

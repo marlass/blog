@@ -3,7 +3,7 @@ layout: post
 title: Plan na mój stos technologiczny
 tags: dajsiepoznac2017
 date: 2017-04-11
-path: /plan-na-moj-stos-technologiczny
+path: /plan-na-moj-stos-technologiczny/
 ---
 
 Chyba każdy, kto ma jakikolwiek kontakt z javascript wie jak dynamiczny jest ekosystem zgromadzony wokół tego języka. Codziennie wychodzi nowy frameworka, mnóstwo bibliotek, dobre praktyki też cały czas ewoluują i bardzo ciężko być z tym wszystkim na bieżąco. Zawsze chcę nauczyć się czegoś nowego, przyjrzeć się innemu frameworkowi i napisać probjekt z użyciem czegoś nowego. Problemem jest ilość nowości, którymi jesteśmy bomboradowani. Jakiś czas temu postanowiłem się zdecydować, w którym kierunku zamierzam iść i ustaliłem sobie swój stos technologiczny, którego chcę dogłebnie poznać.

@@ -3,7 +3,7 @@ layout: post
 title: Testowanie komponentów prezentacyjnych
 tags: dajsiepoznac2017
 date: 2017-03-11
-path: /testowanie-komponentow-prezentacyjnych
+path: /testowanie-komponentow-prezentacyjnych/
 ---
 
 Po skonfigurowaniu wszystkiego zaczynam dzisiaj właściwe prace nad projektem. Na początku zaczynam od prostego formularza do dodawania zadania i wyświetlania listy zadań. Następnym krokiem będzie możliwość edycji, usuwania zadań i filtrowania listy. Po skończeniu tego zajmę się trochę częścią serwerową, żeby nasze zadania były zapamiętywane na dłużej niż jedno wyświetlenie strony. Ale przejdźmy do dzisiejszego tematu - testowania.

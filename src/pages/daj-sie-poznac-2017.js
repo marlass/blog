@@ -1,6 +1,7 @@
-import Link from 'gatsby-link'
+import { Link } from 'gatsby-link'
 import React from 'react'
 import TemplateWrapper from '../layouts'
+import { graphql } from 'gatsby'
 
 export default function Index({ data }) {
   const { edges: posts } = data.allMarkdownRemark
@@ -36,7 +37,7 @@ export default function Index({ data }) {
 
 export const pageQuery = graphql`
   query DajSiePoznacQuery {
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+    allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
       edges {
         node {
           excerpt

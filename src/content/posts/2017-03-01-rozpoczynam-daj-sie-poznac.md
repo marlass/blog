@@ -3,7 +3,7 @@ layout: post
 title: Rozpoczynam "Daj się poznać 2017"
 tags: dajsiepoznac2017
 date: 2017-03-01
-path: /rozpoczynam-daj-sie-poznac
+path: /rozpoczynam-daj-sie-poznac/
 ---
 
 Rozpoczyna się miesiąc marzec i zaczynam wyzwanie "Daj się poznać 2017". Całe to wyzwanie polega na rozwijaniu projektu open source przez 10 tygodni i jednoczesne pisanie na blogu 2 postów tygodniowo. Przynajmniej jeden post w tygodniu musi być poświęcony rozwijanemu oprogramowaniu. Drugi post może dotyczyć dowolnych zagadnieć związanych z branżą IT.

@@ -3,7 +3,7 @@ layout: post
 title: Immutable.js w reduktorach
 tags: dajsiepoznac2017
 date: 2017-04-07
-path: /immutable-js-reducers
+path: /immutable-js-reducers/
 ---
 
 Przy ostatnich pracach nad aplikacją i pisaniu reduktorów nie podobało mi się zwracanie za każdym razem nowego obiektu i braku mutacji w aktualnym stanie. Dodawanie atrybutów do obiektu z pomocą Object.assign jest całkiem przyjemne, natomiast usuwanie atrybutu z obiektu już nie wygląda w kodzie tak ładnie i wymaga trochę uwagi przy zarządzaniu stanem. Wtedy pojawił się pomysł na użycie Immutable.js. Dzisiaj pokażę, co z tego wyszło i sądzę, że zachowanie stanu aplikacji z niemutowalnymi obiektami jest całkiem proste.

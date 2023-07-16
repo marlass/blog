@@ -3,7 +3,7 @@ layout: post
 title: Kilka słów o konfiguracji projektu
 tags: dajsiepoznac2017
 date: 2017-03-05
-path: /kilka-slow-o-konfiguracji
+path: /kilka-slow-o-konfiguracji/
 ---
 
 W pierwszym poście opisywałem trochę narzędzia z których będę korzystał przy robieniu tego projektu. Postaram się teraz trochę bardziej opisać cały stos technologiczny projektu.

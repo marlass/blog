@@ -3,7 +3,7 @@ layout: post
 title: Create React App
 tags: dajsiepoznac2017
 date: 2017-04-26
-path: /create-react-app
+path: /create-react-app/
 ---
 
 Od początku mojej podróży z React obijał się temat wymaganego środowiska, narzędzi budowania i całej konfiguracji wymaganej do odpalenia projektu korzystającego z nowych funkcjonalności ES6. Na szczęście bardzo szybko trafiłem na projekt Create React App, który pozwolił uniknąć mi mnóstwo problemów związanych z podstawową konfiguracją Webpack, Babel przydatnych przy pracy z React.

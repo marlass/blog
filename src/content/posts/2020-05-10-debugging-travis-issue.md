@@ -2,7 +2,7 @@
 layout: post
 title: Debugging Travis issue
 date: 2020-05-10
-path: /debugging-travis-issue
+path: /debugging-travis-issue/
 ---
 
 This is a story that happened to me recently and I wanted to share how I approach debugging problems and what is my thought process. I found this particular issue worth describing, because as usual the most interesting problems are made of smaller problems combined together that you might have never discover otherwise. Enjoy the journey.

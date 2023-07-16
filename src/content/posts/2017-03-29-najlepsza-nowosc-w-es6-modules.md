@@ -3,7 +3,7 @@ layout: post
 title: Najlepsza nowość w ES6 - modules
 tags: dajsiepoznac2017
 date: 2017-03-29
-path: /najlepsza-nowosc-w-es6-modules
+path: /najlepsza-nowosc-w-es6-modules/
 ---
 
 Już od długiego czasu w użyciu jest nowy standard dla javascriptu - ES6 (zwany również ES2015). Może jego użycia jeszcze nie widać w plikach wielu aplikacji, bo w większośći przypadków musi być on jeszcze transpilowany do wspieranego niemal wszędzie poprzedniego standardu ES5. Mimo tego standard ten szybko został zaadoptowany w społeczności programistów JS i ciężko natknąć się jeszcze na nowy kod JS, który nie jest pisany w tym standardzie. ES6 wnosi sporo fajnych usprawnień do języka, ale dzisiaj chcę omówić moją ulubioną część tego standardu - moduły.

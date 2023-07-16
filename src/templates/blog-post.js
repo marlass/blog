@@ -3,6 +3,7 @@ import ReactDisqusComments from 'react-disqus-comments'
 import Helmet from 'react-helmet'
 import TemplateWrapper from '../layouts'
 import settings from './../../settings'
+import { graphql } from 'gatsby'
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query we'll write in a bit

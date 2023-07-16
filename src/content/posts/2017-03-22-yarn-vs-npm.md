@@ -3,7 +3,7 @@ layout: post
 title: Yarn - lepszy klient npm?
 tags: dajsiepoznac2017
 date: 2017-03-22
-path: /yarn-vs-npm
+path: /yarn-vs-npm/
 ---
 
 W październiku zeszłego roku został udostępniony światu nowy menedżer pakietów dla javascriptu - Yarn. Od tamtego czasu nowy klient zdobywa coraz większą popularność. Przy wielu bibliotekach, modułach w instrukcjach instalacyjnych zaczyna się pojawiać oprócz `npm install` komenda `yarn add`. Ja też już jakiś czas temu przerzuciłem się z klienta npm na Yarna. Opowiem trochę o moich doświadczeniach z nowym menedżerem i przedstawię trochę różnic między tymi klientami.

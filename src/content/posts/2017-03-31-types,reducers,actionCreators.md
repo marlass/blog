@@ -3,7 +3,7 @@ layout: post
 title: Types, reducers, action creators
 tags: dajsiepoznac2017
 date: 2017-03-31
-path: /types,reducers,actionCreators
+path: /types,reducers,actionCreators/
 ---
 
 W ostatnim poście na temat projektu opisywałem strukturę stanu aplikacji. Dzisiaj pora na kodzenie ostatnich ustaleń w projekcie. Pokażę, jak w projekcie wyglądają typy, kreatory akcji i reduktory.

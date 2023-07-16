@@ -3,7 +3,7 @@ layout: post
 title: Serverless
 tags: dajsiepoznac2017
 date: 2017-03-08
-path: /serverless
+path: /serverless/
 ---
 
 Dzisiaj zamiast postu o projekcie opowiem trochę o czymś takim, co określa się jako "serverless". Od jakiegoś czasu natrafiam na to pojęcie w Internecie, a ostatnio miałem również okazję usłyszeć prezentację Michała Kurzeji na konferencji "Boiling Frogs". Opiszę dzisiaj moje spostrzeżenia na ten temat i jak wyglądało moje pierwsze starcie z "serverless".

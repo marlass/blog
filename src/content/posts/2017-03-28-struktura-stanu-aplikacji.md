@@ -3,7 +3,7 @@ layout: post
 title: Struktura stanu aplikacji
 tags: dajsiepoznac2017
 date: 2017-03-28
-path: /struktura-stanu-aplikacji
+path: /struktura-stanu-aplikacji/
 ---
 
 Zaczyna się prawdziwy etap tworzenia aplikacji. Podstawowy szkielet aplikacji już istnieje, narzędzia działają, podstawowe zadania można dodawać. Teraz pora implementować główne funkcjonalności. Ale zanim przejdę do pisania funkcjonalności, chcę zaplanować bardzo ważną część aplikacji - jej stan.

@@ -3,7 +3,7 @@ layout: post
 title: Redux - zapis stanu do lokalnej pamięci
 tags: dajsiepoznac2017
 date: 2017-03-18
-path: /redux-lokalny-zapis-stanu
+path: /redux-lokalny-zapis-stanu/
 ---
 
 Od ostatniego postu o projekcie dodałem do aplikacji możliwość ustawienia projektu do każdego zadania oraz usuwanie zadań. Podczas prac bardzo irytowało mnie to, że przy każdym odświeżeniu strony cały stan aplikacji był tracony. Aktualnie planuję rozwijać tylko część frontendową aplikacji, więc implementacja backendu nie wchodziła w grę. Z pomocą przychodzi lokalna pamięć przeglądarki.

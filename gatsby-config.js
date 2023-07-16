@@ -74,7 +74,7 @@ module.exports = {
               {
                 allMarkdownRemark(
                   limit: 1000,
-                  sort: { order: DESC, fields: [frontmatter___date] },
+                  sort: { frontmatter: { date: DESC } },
                 ) {
                   edges {
                     node {
@@ -91,6 +91,7 @@ module.exports = {
               }
             `,
             output: '/feed.xml',
+            title: "blog.marlas.pl RSS Feed"
           },
         ],
       },
